@@ -1,3 +1,5 @@
+/* this problem finds the smallest length of a contiguous subarray whose sum is greater than or equal to a given target value */
+
 #include <iostream>
 #include <vector>
 #include <climits>
