@@ -1,3 +1,7 @@
+/* returns the product of the array excpet self
+eg-: Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
