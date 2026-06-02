@@ -1,3 +1,5 @@
+/* uses sliding window technique*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
