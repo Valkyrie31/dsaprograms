@@ -1,3 +1,4 @@
+/* two pointer technique */
 #include <iostream>
 #include <vector>
 using namespace std;
