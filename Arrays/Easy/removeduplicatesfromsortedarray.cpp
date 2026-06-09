@@ -1,4 +1,5 @@
-/* uses two pointer technique*/
+/* uses two pointer technique
+*/
 
 #include <iostream>
 #include <vector>
