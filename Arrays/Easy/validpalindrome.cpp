@@ -1,4 +1,5 @@
-/* two pointer technique*/
+/* two pointer technique
+*/
 #include <iostream>
 #include <string>
 using namespace std;
