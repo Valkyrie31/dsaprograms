@@ -1,5 +1,7 @@
 /* two pointer technique
-*/
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+    */
 #include <iostream>
 #include <string>
 using namespace std;
